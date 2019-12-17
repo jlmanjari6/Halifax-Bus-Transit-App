@@ -2,6 +2,7 @@
 A Maps application that displays the live stream bus data in Halifax with the help of markers
 
 # Demo
+<p>The .apk file is attached to the repository. Sample images are attached here!</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b> App Logo </b> <br> 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ZWjMDr2/app-logo-icon.png" alt="app-logo-icon" border="0" height="300" width="180"></a> <br>
