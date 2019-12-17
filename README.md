@@ -1,10 +1,8 @@
 # Halifax Bus Transit 
-*************
 A Maps application that displays the live stream bus data in Halifax with the help of markers
 
 
 # Description
-*************
 This application meets the following requirements:
 
 1) On launch, a map is displayed, with indicators showing the current positions of all buses.
@@ -18,7 +16,6 @@ Until the buses are displayed, a dialog box with "Loading, please wait.." is dis
 7) The entire functionality specified above works even when the device screen is rotated.
 
 # Exceptional:
-
 1) User can choose the bus of choice by clicking yellow filter icon at bottom right of the application. All buses are displayedin 
 dropdown along with "SHOW ALL" to display all the buses.
 2) On click on bus marker icon, bus "route id" along with bus "delay status" is displayed-
@@ -27,12 +24,10 @@ dropdown along with "SHOW ALL" to display all the buses.
 	If on time, "On time"
 
 # Known bugs:
-*************
 There are no known bugs as of now except that application hangs once in a while.
 Also, initially when the app is launched, "Loading" message appears for a while which means its taking more time to execute the thread.
 
 # References:
-************
 [1] Dal.brightspace.com, 2019. [Online]. Available: https://dal.brightspace.com/d2l/le/content/97458/viewContent/1347182/View. [Accessed: 15- Jul- 2019].
 
 [2] "MobilityData/gtfs-realtime-bindings", GitHub, 2019. [Online]. Available: https://github.com/MobilityData/gtfs-realtime-bindings. [Accessed: 15- Jul- 2019].
