@@ -1,9 +1,9 @@
-Halifax Bus Transit 
+# Halifax Bus Transit 
 *************
 A Maps application that displays the live stream bus data in Halifax with the help of markers
 
 
-Description
+# Description
 *************
 This application meets the following requirements:
 
@@ -17,7 +17,7 @@ Until the buses are displayed, a dialog box with "Loading, please wait.." is dis
 (even if the app is terminated and relaunched).
 7) The entire functionality specified above works even when the device screen is rotated.
 
-Exceptional:
+# Exceptional:
 
 1) User can choose the bus of choice by clicking yellow filter icon at bottom right of the application. All buses are displayedin 
 dropdown along with "SHOW ALL" to display all the buses.
@@ -26,12 +26,12 @@ dropdown along with "SHOW ALL" to display all the buses.
 	If early, "Early by XXX seconds",
 	If on time, "On time"
 
-Known bugs:
+# Known bugs:
 *************
 There are no known bugs as of now except that application hangs once in a while.
 Also, initially when the app is launched, "Loading" message appears for a while which means its taking more time to execute the thread.
 
-References:
+# References:
 ************
 [1] Dal.brightspace.com, 2019. [Online]. Available: https://dal.brightspace.com/d2l/le/content/97458/viewContent/1347182/View. [Accessed: 15- Jul- 2019].
 
